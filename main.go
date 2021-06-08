@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gee"
+	"github.com/prettyCoders/go-7days/gee"
 	"net/http"
 )
 
